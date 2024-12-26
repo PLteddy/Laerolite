@@ -1,0 +1,13 @@
+# Ignore cache and log files
+cache/
+log.txt
+
+# Ignore persistent saves
+**/*.persistent
+
+# Ignore compiled scripts
+**/*.rpyc
+
+# Ignore archive files
+**/*.rpa
+
